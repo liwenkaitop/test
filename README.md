@@ -1,3 +1,3 @@
 # test
-usual algo codes, just like sort algo, etc
-including unit test.
+Common algorithm codes, just like sort and search algorithms, etc.
+Thare are some unit tests included.
