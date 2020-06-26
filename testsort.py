@@ -30,5 +30,6 @@ class SortTestCase(unittest.TestCase):
 		# 一个数据测试
 		self.datas.append(random.randint(-1000,1000))
 		self.assertTrue(sort.bubblesort(self.datas))
-		
-unittest.main()
+
+if __name__ =='__main__':
+	unittest.main()
